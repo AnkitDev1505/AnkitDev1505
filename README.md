@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit – Aspiring Software Engineer & DSA Pro
 
-<!--
-**AnkitDev1505/AnkitDev1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently mastering **DSA + App Dev**
+- 💼 I'm building amazing projects using **Flutter, React Native, Python**
+- ⚡ Fun fact: I solve LeetCode at night like a ninja 🥷
 
-Here are some ideas to get you started:
+### 📈 My GitHub Stats:
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitDev_1505&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools:
+Flutter | Dart | Python | Firebase | React Native | Git | VS Code | Android Studio
+
+> "Code like a king, debug like a god, ship like a beast!" 🚀
