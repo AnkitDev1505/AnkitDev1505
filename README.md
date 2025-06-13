@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ankit – Aspiring Software Engineer & DSA Pro
+# 👋 Hi, I'm Ankit – Aspiring Software Engineer & DSA Solver
 
 - 🌱 I’m currently mastering **DSA + App Dev**
 - 💼 I'm building amazing projects using **Flutter, Native Android , Python**
